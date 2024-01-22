@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **All JS Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://irfaannn10.github.io/irfankalekar/](https://irfaannn10.github.io/irfankalekar/)
+- 👨‍💻 All of my projects are available at [https://irfankalekar.netlify.app/](https://irfankalekar.netlify.app)
 
 - 💬 Ask me about **C, Python, Java,SQL,MongoDb**
 
