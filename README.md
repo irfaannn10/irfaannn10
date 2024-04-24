@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Irfan Kalekar</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Ionic Angular**
 
-- 👯 I’m looking to collaborate on **All JS Frameworks**
+- 👯 I’m looking to collaborate on **React JS**
 
 - 👨‍💻 All of my projects are available at [https://irfankalekar.netlify.app/](https://irfankalekar.netlify.app)
 
