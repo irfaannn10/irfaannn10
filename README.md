@@ -2,8 +2,10 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 - 🔭 I’m currently working on **Ionic Angular**
+  
+- Currently Associatied with Mahaveer Infotech Chinchwad, Pune As Software Developer From November 2023.
 
-- 👯 I’m looking to collaborate on **React JS**
+- 👯 I’m looking to collaborate on **React JS/ Next JS**
 
 - 👨‍💻 All of my projects are available at [https://irfankalekar.netlify.app/](https://irfankalekar.netlify.app)
 
